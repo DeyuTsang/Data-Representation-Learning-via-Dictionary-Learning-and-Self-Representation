@@ -1,0 +1,23 @@
+2023-03-01 13:55:18,shiyan = 1, lambda = 0.60000000,h = 30, init_Z =100,rankZ= 14,pro_acc= 0.84000000,pro_RI= 0.99200000,pro_Precisions= 0.83333333,pro_Recalls= 0.84583333,pro_F1= 0.82404762 
+  2023-03-01 13:55:18,shiyan = 1, lambda = 0.60000000,h = 30, init_Z =100,rankZ= 14,Z_acc= 0.87000000,Z_RI= 0.99350000,Z_Precisions= 0.86666667,Z_Recalls= NaN,Z_F1= 0.84654762 
+  2023-03-01 13:55:18,shiyan = 1, lambda = 0.60000000,h = 30, init_Z =100,rankZ= 14,pro_acc= 0.84000000,pro_RI= 0.99200000,pro_Precisions= 0.83333333,pro_Recalls= 0.84583333,pro_F1= 0.82404762 
+  2023-03-01 13:55:18,shiyan = 1, lambda = 0.60000000,h = 30, init_Z =100,rankZ= 14,Z_acc= 0.87000000,Z_RI= 0.99350000,Z_Precisions= 0.86666667,Z_Recalls= NaN,Z_F1= 0.84654762 
+  2023-03-01 13:59:21,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =100,rankZ= 75,pro_acc= 0.84000000,pro_RI= 0.99200000,pro_Precisions= 0.84166667,pro_Recalls= NaN,pro_F1= 0.82845238 
+  2023-03-01 13:59:21,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =100,rankZ= 75,Z_acc= 0.88000000,Z_RI= 0.99400000,Z_Precisions= 0.87500000,Z_Recalls= NaN,Z_F1= 0.85511905 
+  2023-03-01 13:59:21,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =100,rankZ= 75,pro_acc= 0.84000000,pro_RI= 0.99200000,pro_Precisions= 0.84166667,pro_Recalls= NaN,pro_F1= 0.82845238 
+  2023-03-01 13:59:21,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =100,rankZ= 75,Z_acc= 0.88000000,Z_RI= 0.99400000,Z_Precisions= 0.87500000,Z_Recalls= NaN,Z_F1= 0.85511905 
+  2023-03-01 14:03:26,shiyan = 1, lambda = 0.60000000,h = 50, init_Z =100,rankZ= 77,pro_acc= 0.86000000,pro_RI= 0.99300000,pro_Precisions= 0.85416667,pro_Recalls= NaN,pro_F1= 0.83095238 
+  2023-03-01 14:03:26,shiyan = 1, lambda = 0.60000000,h = 50, init_Z =100,rankZ= 77,Z_acc= 0.88000000,Z_RI= 0.99400000,Z_Precisions= 0.87500000,Z_Recalls= NaN,Z_F1= 0.85595238 
+  2023-03-01 14:03:26,shiyan = 1, lambda = 0.60000000,h = 50, init_Z =100,rankZ= 77,pro_acc= 0.86000000,pro_RI= 0.99300000,pro_Precisions= 0.85416667,pro_Recalls= NaN,pro_F1= 0.83095238 
+  2023-03-01 14:03:26,shiyan = 1, lambda = 0.60000000,h = 50, init_Z =100,rankZ= 77,Z_acc= 0.88000000,Z_RI= 0.99400000,Z_Precisions= 0.87500000,Z_Recalls= NaN,Z_F1= 0.85595238 
+  2023-03-01 14:07:35,shiyan = 1, lambda = 0.60000000,h = 60, init_Z =100,rankZ= 77,pro_acc= 0.87000000,pro_RI= 0.99350000,pro_Precisions= 0.87083333,pro_Recalls= NaN,pro_F1= 0.85595238 
+  2023-03-01 14:07:35,shiyan = 1, lambda = 0.60000000,h = 60, init_Z =100,rankZ= 77,Z_acc= 0.87000000,Z_RI= 0.99350000,Z_Precisions= 0.86250000,Z_Recalls= NaN,Z_F1= 0.84488095 
+  2023-03-01 14:07:35,shiyan = 1, lambda = 0.60000000,h = 60, init_Z =100,rankZ= 77,pro_acc= 0.87000000,pro_RI= 0.99350000,pro_Precisions= 0.87083333,pro_Recalls= NaN,pro_F1= 0.85595238 
+  2023-03-01 14:07:35,shiyan = 1, lambda = 0.60000000,h = 60, init_Z =100,rankZ= 77,Z_acc= 0.87000000,Z_RI= 0.99350000,Z_Precisions= 0.86250000,Z_Recalls= NaN,Z_F1= 0.84488095 
+  2023-03-01 15:02:56,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =80,rankZ= 75,pro_acc= 0.89000000,pro_RI= 0.99450000,pro_Precisions= 0.89166667,pro_Recalls= 0.91291667,pro_F1= 0.88184524 
+  2023-03-01 15:02:56,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =80,rankZ= 75,Z_acc= 0.88000000,Z_RI= 0.99400000,Z_Precisions= 0.87500000,Z_Recalls= NaN,Z_F1= 0.85595238 
+  2023-03-01 15:06:59,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =90,rankZ= 75,pro_acc= 0.87000000,pro_RI= 0.99350000,pro_Precisions= 0.86666667,pro_Recalls= NaN,pro_F1= 0.85886905 
+  2023-03-01 15:06:59,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =90,rankZ= 75,Z_acc= 0.87000000,Z_RI= 0.99350000,Z_Precisions= 0.86666667,Z_Recalls= NaN,Z_F1= 0.84238095 
+  2023-03-01 15:11:01,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =100,rankZ= 75,pro_acc= 0.87000000,pro_RI= 0.99350000,pro_Precisions= 0.87083333,pro_Recalls= NaN,pro_F1= 0.85553571 
+  2023-03-01 15:11:01,shiyan = 1, lambda = 0.60000000,h = 40, init_Z =100,rankZ= 75,Z_acc= 0.90000000,Z_RI= 0.99500000,Z_Precisions= 0.89583333,Z_Recalls= NaN,Z_F1= 0.87595238 
+  

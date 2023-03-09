@@ -1,0 +1,2 @@
+2018-08-22 14:43:11,shiyan = 1, lambda = 0.20000000,h = 40, init_Z =100,rankZ= 179,pro_accuracy= 0.88704319,lrr_acc = 0.90033223 
+  

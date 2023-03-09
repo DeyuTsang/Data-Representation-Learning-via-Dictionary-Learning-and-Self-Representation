@@ -1,0 +1,13 @@
+2023-03-05 11:19:48,shiyan = 1, lambda = 14.00000000,h = 30, init_Z =300,rankZ= 36,pro_acc= 0.64102564,pro_RI= 0.98005698,pro_Precisions= 0.63765432,pro_Recalls= 0.65910147,pro_F1= 0.63614372 
+  2023-03-05 11:19:48,shiyan = 1, lambda = 14.00000000,h = 30, init_Z =300,rankZ= 36,Z_acc= 0.62678063,Z_RI= 0.97926559,Z_Precisions= 0.62253086,Z_Recalls= 0.65746166,Z_F1= 0.62066149 
+  2023-03-05 12:25:07,shiyan = 1, lambda = 14.00000000,h = 40, init_Z =300,rankZ= 37,pro_acc= 0.63817664,pro_RI= 0.97989870,pro_Precisions= 0.63456790,pro_Recalls= 0.65641588,pro_F1= 0.63242701 
+  2023-03-05 12:25:07,shiyan = 1, lambda = 14.00000000,h = 40, init_Z =300,rankZ= 37,Z_acc= 0.64957265,Z_RI= 0.98053181,Z_Precisions= 0.64506173,Z_Recalls= 0.66090777,Z_F1= 0.63878183 
+  2023-03-05 13:30:51,shiyan = 1, lambda = 14.00000000,h = 50, init_Z =300,rankZ= 37,pro_acc= 0.63247863,pro_RI= 0.97958215,pro_Precisions= 0.62901235,pro_Recalls= 0.65261139,pro_F1= 0.62651566 
+  2023-03-05 13:30:51,shiyan = 1, lambda = 14.00000000,h = 50, init_Z =300,rankZ= 37,Z_acc= 0.65242165,Z_RI= 0.98069009,Z_Precisions= 0.64783951,Z_Recalls= 0.66545754,Z_F1= 0.64368024 
+  2023-03-05 14:36:44,shiyan = 1, lambda = 14.00000000,h = 60, init_Z =300,rankZ= 37,pro_acc= 0.64102564,pro_RI= 0.98005698,pro_Precisions= 0.63703704,pro_Recalls= 0.66575307,pro_F1= 0.63583629 
+  2023-03-05 14:36:44,shiyan = 1, lambda = 14.00000000,h = 60, init_Z =300,rankZ= 37,Z_acc= 0.65527066,Z_RI= 0.98084837,Z_Precisions= 0.65123457,Z_Recalls= 0.67032659,Z_F1= 0.64752753 
+  2023-03-05 15:42:51,shiyan = 1, lambda = 14.00000000,h = 70, init_Z =300,rankZ= 37,pro_acc= 0.64957265,pro_RI= 0.98053181,pro_Precisions= 0.64598765,pro_Recalls= 0.66958204,pro_F1= 0.64522778 
+  2023-03-05 15:42:51,shiyan = 1, lambda = 14.00000000,h = 70, init_Z =300,rankZ= 37,Z_acc= 0.64672365,Z_RI= 0.98037354,Z_Precisions= 0.64228395,Z_Recalls= 0.66320231,Z_F1= 0.64080977 
+  2023-03-05 16:49:17,shiyan = 1, lambda = 14.00000000,h = 80, init_Z =300,rankZ= 37,pro_acc= 0.65527066,pro_RI= 0.98084837,pro_Precisions= 0.65185185,pro_Recalls= 0.68230843,pro_F1= 0.65416433 
+  2023-03-05 16:49:17,shiyan = 1, lambda = 14.00000000,h = 80, init_Z =300,rankZ= 37,Z_acc= 0.66951567,Z_RI= 0.98163976,Z_Precisions= 0.66543210,Z_Recalls= 0.68636849,Z_F1= 0.66203237 
+  

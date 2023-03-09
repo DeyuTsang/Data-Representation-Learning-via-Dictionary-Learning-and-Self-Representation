@@ -1,0 +1,15 @@
+2023-03-06 01:15:23,shiyan = 1, lambda = 15.00000000,h = 80, init_Z =300,rankZ= 42,pro_acc= 0.56125356,pro_RI= 0.97562520,pro_Precisions= 0.55555556,pro_Recalls= 0.57546789,pro_F1= 0.55089968 
+  2023-03-06 01:15:23,shiyan = 1, lambda = 15.00000000,h = 80, init_Z =300,rankZ= 42,Z_acc= 0.56410256,Z_RI= 0.97578348,Z_Precisions= 0.56141975,Z_Recalls= 0.55996866,Z_F1= 0.54825127 
+  2023-03-06 02:31:13,shiyan = 1, lambda = 15.00000000,h = 70, init_Z =300,rankZ= 42,pro_acc= 0.58404558,pro_RI= 0.97689142,pro_Precisions= 0.57839506,pro_Recalls= 0.59320844,pro_F1= 0.56923599 
+  2023-03-06 02:31:13,shiyan = 1, lambda = 15.00000000,h = 70, init_Z =300,rankZ= 42,Z_acc= 0.56125356,Z_RI= 0.97562520,Z_Precisions= 0.55833333,Z_Recalls= 0.56166233,Z_F1= 0.54616843 
+  2023-03-06 03:40:30,shiyan = 1, lambda = 15.00000000,h = 60, init_Z =300,rankZ= 42,pro_acc= 0.56695157,pro_RI= 0.97594175,pro_Precisions= 0.56265432,pro_Recalls= 0.59239811,pro_F1= 0.55666318 
+  2023-03-06 03:40:30,shiyan = 1, lambda = 15.00000000,h = 60, init_Z =300,rankZ= 42,Z_acc= 0.54131054,Z_RI= 0.97451725,Z_Precisions= 0.53827160,Z_Recalls= 0.53963960,Z_F1= 0.52528191 
+  2023-03-06 04:49:51,shiyan = 1, lambda = 15.00000000,h = 50, init_Z =300,rankZ= 1,pro_acc= 0.60113960,pro_RI= 0.97784109,pro_Precisions= 0.59567901,pro_Recalls= 0.60778189,pro_F1= 0.58243286 
+  2023-03-06 04:49:51,shiyan = 1, lambda = 15.00000000,h = 50, init_Z =300,rankZ= 1,Z_acc= 0.52706553,Z_RI= 0.97372586,Z_Precisions= 0.52469136,Z_Recalls= 0.54236990,Z_F1= 0.51147042 
+  2023-03-06 05:58:58,shiyan = 1, lambda = 15.00000000,h = 40, init_Z =300,rankZ= 40,pro_acc= 0.54415954,pro_RI= 0.97467553,pro_Precisions= 0.53858025,pro_Recalls= 0.55335047,pro_F1= 0.52541541 
+  2023-03-06 05:58:58,shiyan = 1, lambda = 15.00000000,h = 40, init_Z =300,rankZ= 40,Z_acc= 0.54700855,Z_RI= 0.97483381,Z_Precisions= 0.54444444,Z_Recalls= 0.55608874,Z_F1= 0.53282519 
+  2023-03-06 07:07:44,shiyan = 1, lambda = 15.00000000,h = 30, init_Z =300,rankZ= 39,pro_acc= 0.55555556,pro_RI= 0.97530864,pro_Precisions= 0.55061728,pro_Recalls= 0.55797297,pro_F1= 0.54482468 
+  2023-03-06 07:07:44,shiyan = 1, lambda = 15.00000000,h = 30, init_Z =300,rankZ= 39,Z_acc= 0.52706553,Z_RI= 0.97372586,Z_Precisions= 0.52407407,Z_Recalls= 0.52629755,Z_F1= 0.51281673 
+  2023-03-06 08:16:01,shiyan = 1, lambda = 15.00000000,h = 80, init_Z =300,rankZ= 42,pro_acc= 0.59259259,pro_RI= 0.97736626,pro_Precisions= 0.58827160,pro_Recalls= 0.62230456,pro_F1= 0.57758561 
+  2023-03-06 08:16:01,shiyan = 1, lambda = 15.00000000,h = 80, init_Z =300,rankZ= 42,Z_acc= 0.55840456,Z_RI= 0.97546692,Z_Precisions= 0.55555556,Z_Recalls= 0.56967207,Z_F1= 0.54650013 
+  
